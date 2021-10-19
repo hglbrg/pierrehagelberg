@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pierrehagelberg
+- 👋 Hi, I’m @hglbrg
 - 💻 I'm working as a systems developer, mainly frontend and on the web
 - 🌱 I’m currently learning backend for webapps
 - 📫 How to reach me my username dot com.
